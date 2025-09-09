@@ -1,7 +1,7 @@
 
 # Video Gaming Hub Database
 
-This project is a MySQL database for a fictional video game store, designed to manage platforms, customers, games, and purchase data. It includes example data, useful queries, and stored procedures for sales analysis and loyalty schemes.
+This project is a MySQL database for a fictional video game store designed to manage platforms, customers, games, and purchase data. It includes example data, useful queries, and stored procedures for sales analysis and loyalty schemes.
 
 ## Features
 
